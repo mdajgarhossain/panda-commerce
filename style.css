@@ -19,3 +19,22 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.category-1 {
+    background-color: orange;
+}
+.category-2 {
+    background-color: orchid;
+}
+.category-3 {
+    background-color: blue;
+}
+.category-1, .category-2, .category-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1 {
+    color: white;
+}
+.categories img {
+    width: 100px;
+}
