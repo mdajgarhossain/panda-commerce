@@ -43,3 +43,8 @@
     box-shadow: 5px 5px 15px lightgray;
     border-radius: 10px;
 }
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
